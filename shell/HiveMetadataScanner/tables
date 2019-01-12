@@ -1,0 +1,76 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+account foodmart.db
+agg_c_10_sales_fact_1997 foodmart.db
+agg_c_14_sales_fact_1997 foodmart.db
+agg_c_special_sales_fact_1997 foodmart.db
+agg_g_ms_pcat_sales_fact_1997 foodmart.db
+agg_l_03_sales_fact_1997 foodmart.db
+agg_l_04_sales_fact_1997 foodmart.db
+agg_l_05_sales_fact_1997 foodmart.db
+agg_lc_06_sales_fact_1997 foodmart.db
+agg_lc_100_sales_fact_1997 foodmart.db
+agg_ll_01_sales_fact_1997 foodmart.db
+agg_pl_01_sales_fact_1997 foodmart.db
+category foodmart.db
+currency foodmart.db
+customer foodmart.db
+days foodmart.db
+department foodmart.db
+employee foodmart.db
+employee_closure foodmart.db
+expense_fact foodmart.db
+inventory_fact_1997 foodmart.db
+inventory_fact_1998 foodmart.db
+position foodmart.db
+product foodmart.db
+product_class foodmart.db
+promotion foodmart.db
+region foodmart.db
+reserve_employee foodmart.db
+salary foodmart.db
+sales_fact_1997 foodmart.db
+sales_fact_1998 foodmart.db
+sales_fact_dec_1998 foodmart.db
+store foodmart.db
+store_ragged foodmart.db
+time_by_day foodmart.db
+warehouse foodmart.db
+warehouse_class foodmart.db
+000000_0 mock_data_orc

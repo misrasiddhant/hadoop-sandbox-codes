@@ -1,0 +1,1 @@
+db_scanner.sh: line 17: $'account_id          \tint                 \t                    ': command not found
